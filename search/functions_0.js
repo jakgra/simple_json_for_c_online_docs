@@ -9,5 +9,5 @@ var searchData=
   ['s_5fjson_5flong',['s_json_long',['../s__json_8h.html#a8b2c435a18c12b637603ac3705c546ad',1,'s_json.h']]],
   ['s_5fjson_5fobject',['s_json_object',['../s__json_8h.html#a3fb6764e56cee8d0f3928e1716b8dfbd',1,'s_json.h']]],
   ['s_5fjson_5fstring',['s_json_string',['../s__json_8h.html#a71bea6c123fe58e42d1317941dccbd09',1,'s_json.h']]],
-  ['s_5fjson_5fstring_5fraw',['s_json_string_raw',['../s__json_8h.html#aa1141f1dc1301cb388d3b5844c365fdf',1,'s_json.h']]]
+  ['s_5fjson_5fstring_5fraw',['s_json_string_raw',['../s__json_8h.html#a8f3231a16262b5e78a0d663a35b8346e',1,'s_json.h']]]
 ];

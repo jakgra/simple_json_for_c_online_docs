@@ -18,6 +18,6 @@ var searchData=
   ['s_5fjson_5fobject',['s_json_object',['../s__json_8h.html#a3fb6764e56cee8d0f3928e1716b8dfbd',1,'s_json.h']]],
   ['s_5fjson_5fok',['S_JSON_OK',['../s__json_8h.html#a1d0821f7dcc2fb76d7dc02808454fbe8a0923b1ddac392da61b52229f11a88007',1,'s_json.h']]],
   ['s_5fjson_5fstring',['s_json_string',['../s__json_8h.html#a71bea6c123fe58e42d1317941dccbd09',1,'s_json.h']]],
-  ['s_5fjson_5fstring_5fraw',['s_json_string_raw',['../s__json_8h.html#aa1141f1dc1301cb388d3b5844c365fdf',1,'s_json.h']]],
+  ['s_5fjson_5fstring_5fraw',['s_json_string_raw',['../s__json_8h.html#a8f3231a16262b5e78a0d663a35b8346e',1,'s_json.h']]],
   ['s_5fjson_5ft',['s_json_t',['../s__json_8h.html#abf3891950949c9bd016b88df37d35826',1,'s_json.h']]]
 ];
